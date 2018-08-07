@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.23)  6 AUG 2018 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.23)  6 AUG 2018 21:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1181,13 +1181,17 @@ Here is how much of TeX's memory you used:
  35300 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,64p,785b,656s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Apresentacao_Cusco.pdf (25 pages, 2442151 bytes).
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
+cal/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texliv
+e/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/h
+elvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic
+/uhvro8a.pfb>
+Output written on Apresentacao_Cusco.pdf (25 pages, 2450396 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
+ 333 PDF objects out of 1000 (max. 8388607)
+ 270 compressed objects within 3 object streams
  70 named destinations out of 1000 (max. 500000)
  18662 words of extra memory for PDF output out of 20736 (max. 10000000)
 
