@@ -1,0 +1,12 @@
+\babel@toc {brazil}{}
+\beamer@sectionintoc {2}{Apresenta\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@sectionintoc {3}{Processo de Data Science}{6}{0}{2}
+\beamer@sectionintoc {4}{PagSeguro}{7}{0}{3}
+\beamer@sectionintoc {5}{NuvemShop}{9}{0}{4}
+\beamer@sectionintoc {6}{Amostragem - principais erros}{10}{0}{5}
+\beamer@sectionintoc {7}{Engenharia de features}{17}{0}{6}
+\beamer@sectionintoc {8}{Overview de modelos}{18}{0}{7}
+\beamer@sectionintoc {9}{Treinamento de modelos}{20}{0}{8}
+\beamer@sectionintoc {10}{Ferramentas}{22}{0}{9}
+\beamer@sectionintoc {11}{Agradecimentos}{24}{0}{10}
+\beamer@sectionintoc {12}{Contato}{25}{0}{11}

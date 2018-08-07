@@ -1,0 +1,32 @@
+\section{Status Revisão}
+\begin{frame}
+
+\begin{block}{Documentos para entregar na revisão}
+\begin{enumerate}
+\item i) Artigo com a sumarização dos resultados.
+\item ii) Formulários por artigo.
+\item iii) Formulário de condução.
+\end{enumerate}
+\end{block}
+
+\begin{block}{Status}
+\begin{enumerate}
+\item O item i precisa começar.
+\item O item ii está finalizado.
+\item O item iii está finalizado.
+\end{enumerate}
+\end{block}
+
+\end{frame}
+
+\begin{frame}
+
+\begin{block}{Caminho dos documentos}
+\begin{enumerate}
+\item Formulários por artigo: \url{MestradoAdilson/Revisao_Documentos_Finais/FormularioIndividualArtigo}.
+\item Protocolo por base de dados: \url{MestradoAdilson/Revisao_Documentos_Finais/ListaArtigos}.
+\item Tabela-resumo artigos: \url{MestradoAdilson/ArtigosLidos.ods}
+\end{enumerate}
+\end{block}
+
+\end{frame}

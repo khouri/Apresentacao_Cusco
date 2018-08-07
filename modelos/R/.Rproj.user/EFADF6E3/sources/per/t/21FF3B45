@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532866183468.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2950047732",
+    "id" : "21FF3B45",
+    "lastKnownWriteTime" : 1532867243,
+    "last_content_update" : 1532867243652,
+    "path" : "~/Downloads/ApresentacaoDaDefesa/modelos/R/modelo.R",
+    "project_path" : "modelo.R",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "scrollLine" : "22",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
